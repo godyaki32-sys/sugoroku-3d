@@ -1,12 +1,42 @@
 {
-  "updated": "2026-11-28 11:38",
-  "next": {"label": "次の公開", "title": "第2弾", "name": "怖すぎるポケモン", "when": "11/30 19:00"},
+  "updated": "2026-11-28 11:43",
+  "next": {
+    "label": "次の公開",
+    "title": "第2弾",
+    "name": "怖すぎるポケモン",
+    "when": "11/30 19:00"
+  },
   "rows": [
-    {"n": "第1弾", "name": "盛りすぎ", "status": "公開中", "color": "green"},
-    {"n": "第2弾", "name": "怖すぎる", "status": "11/30", "color": "yellow"},
-    {"n": "第3弾", "name": "可愛すぎる", "status": "12/6", "color": "yellow"},
-    {"n": "第4弾", "name": "悲しすぎる", "status": "12/10", "color": "yellow"},
-    {"n": "第5弾", "name": "嘘くさい図鑑", "status": "準備中", "color": "orange"}
+    {
+      "n": "第2弾",
+      "name": "怖すぎる",
+      "status": "11/30",
+      "color": "yellow"
+    },
+    {
+      "n": "第3弾",
+      "name": "可愛すぎる",
+      "status": "12/6",
+      "color": "yellow"
+    },
+    {
+      "n": "第4弾",
+      "name": "悲しすぎる",
+      "status": "12/10",
+      "color": "yellow"
+    },
+    {
+      "n": "第5弾",
+      "name": "嘘くさい図鑑",
+      "status": "準備中",
+      "color": "orange"
+    },
+    {
+      "n": "第6弾",
+      "name": "性格が激変",
+      "status": "制作中",
+      "color": "orange"
+    }
   ],
   "foot": "Shortストック 2本（ポッチャマ・イーブイ）／ 公開はまだ"
 }
