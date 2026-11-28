@@ -1,1 +1,11 @@
-{"foot":"Short完成 6本（ポッチャマ・イーブイ・リオル・メタモン・モクロー・ヤドン）／ 公開はまだ","next":{"label":"次の公開","name":"怖すぎるポケモン","title":"第2弾","when":"11/30 19:00"},"rows":[{"color":"yellow","n":"第3弾","name":"可愛すぎる","status":"12/6"},{"color":"yellow","n":"第4弾","name":"悲しすぎる","status":"12/10"},{"color":"yellow","n":"第5弾","name":"嘘くさい図鑑","status":"12/17"},{"color":"orange","n":"第6弾","name":"性格が激変","status":"制作中"}],"updated":"2026-11-28 16:01"}
+{
+  "updated": "2026-11-28 18:04",
+  "next": {"label": "いま制作中", "title": "第6弾", "name": "性格が激変", "when": "作り直し中"},
+  "rows": [
+    {"n": "第2弾", "name": "怖すぎる", "status": "完成", "color": "green"},
+    {"n": "第3弾", "name": "可愛すぎる", "status": "完成", "color": "green"},
+    {"n": "第4弾", "name": "悲しすぎる", "status": "完成", "color": "green"},
+    {"n": "第5弾", "name": "嘘くさい図鑑", "status": "完成", "color": "green"}
+  ],
+  "foot": "Short 完成 6本（ポッチャマ・イーブイ・リオル・メタモン・モクロー・ヤドン）"
+}
